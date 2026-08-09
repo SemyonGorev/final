@@ -6,8 +6,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.ini
-.pyc
+*.ini
+*.pyc
 # C extensions
 *.so
 
